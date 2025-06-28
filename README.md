@@ -15,6 +15,6 @@ Features
 
  Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🔗 useRef, useState, useEffect, useCallback
+-  React.js
+-  Tailwind CSS
+-  useRef, useState, useEffect, useCallback
